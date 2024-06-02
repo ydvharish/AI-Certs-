@@ -1,0 +1,1916 @@
+@media only screen and (max-width: 1024px) {
+
+
+
+
+  span {
+    color: yellow;
+    margin-left: 150px;
+    font-size: 35px;
+
+
+}
+
+p{
+  margin-left: 150px;
+  color: gray;
+  font-size: 15px;
+}
+
+
+
+h2{
+  font-size:30px ;
+}
+
+
+
+
+h1{
+  margin-left: 150px;
+  font-size: 55px;
+  margin-top: -30px;
+  margin-bottom: -5px;
+}
+
+
+
+.home img{
+  margin-left: 800px;
+  height: 200px;
+margin-top: -450px;
+
+}
+
+
+
+
+.btn1{
+
+  padding: 10px;
+  cursor: pointer;
+  background-color: gold;
+  
+  color: white;
+  height: 50px;
+  width: 130px;
+  margin-left: 180px;
+  font-size: 10px;
+  
+  }
+
+  .btn1:hover {
+    background-color: transparent; /* Change background color on hover */
+    color: gold;
+
+  }
+
+
+   
+  .btn2{
+
+  
+ 
+    cursor: pointer;
+    box-sizing: border-box;
+   background-color: gold;
+   color: white;
+   height: 50px;
+   width: 130px;
+   font-size: 10px;
+
+    
+    
+    }
+    .btn2:hover {
+        background-color: transparent; /* Change background color on hover */
+        color: gold;
+    }
+
+
+    .btn3{
+
+       
+      cursor: pointer;
+      background-color: gold;
+      color: white;
+      height: 50px;
+      width: 160px;
+      font-size: 10px;
+
+      }
+      .btn3:hover {
+          background-color: transparent; /* Change background color on hover */
+          color: gold;
+      }
+
+
+
+
+
+      .pre1{
+  
+        margin-top: 100px;
+        font-size: 30px;
+    }
+    .pre li{
+    
+        margin-top: 30px;
+        margin-left: 150px;
+    }
+    
+
+
+
+    .boxx{
+      background-color: rgba(23, 26, 36, 1);
+      margin-top: 50px;
+      
+  }
+  
+
+
+
+    #video-section {
+      padding: 10px;
+      margin-top: 40px;
+      margin-left: 60px;
+  
+  
+  }
+.video-container video{
+  height: 250px;
+  width: 370px;
+}
+
+
+
+
+.box0{
+    
+  float: right;
+  
+  margin: 3px;
+  padding: 4px;
+  display: inline;
+}
+
+.box1 {
+  
+  background-color:rgb(27, 30, 36);
+ 
+  padding: 20px;
+  margin: 10px;
+  
+
+  height: 80px;
+  width: 150px;
+  text-align: center;
+
+
+
+
+
+  
+  
+}
+
+
+.box2 {
+  background-color: rgb(26, 29, 34);
+  padding: 20px;
+  margin: 10px;
+  
+
+  height: 80px;
+  width: 150px; 
+  text-align: center;
+ 
+  
+}
+
+
+
+
+.box-h {
+ 
+  font-size: 12px;
+  margin: 0;
+  padding: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+.module {
+
+
+   
+     padding: 10px; 
+     width: 100%;
+     border: none;
+     text-align: left;
+     outline: none;
+     font-size: 15px;
+     transition: 0.4s;
+     
+   }
+
+
+
+
+.panel {
+     padding: 0 13px;
+     display: none;
+     background-color:rgb(17, 12, 11);
+     overflow: hidden;
+   }
+
+   .module:after {
+     content: '\02795'; 
+     font-size: 9px;
+     color: #777;
+     float: left;
+     margin-left: 12px;
+ 
+   }
+
+
+
+#slide{
+    background-color:rgba(23, 26, 36, 1);
+    margin-top: 100px;
+font-size: 10px;
+
+}
+  
+
+
+.slideshow-container {
+  background-color: rgba(23, 26, 36, 1);
+  max-width: 800px;
+  max-height: 300px;
+  position: relative;
+  margin: auto;
+  
+}
+
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 70%;
+  width: auto;
+  padding: 3px;
+  margin-top: -15px;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  transition: 0.6s ease;
+  border-radius: 1px 1px 1px 1px;
+  user-select: none;
+}
+
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 22px 1px;
+  background-color: #bbb;
+  border-radius: 100%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.all0{
+  color: white;
+  font-size: 7px;
+
+}
+
+
+
+.all0 p{
+  font-size: 7px;
+  position: relative;
+  top: 40px;
+  
+}
+
+.all0 h3{
+  position: relative;
+top: 40px;
+left: 20%;
+
+  
+}
+
+
+.all0 h5{
+  position: relative;
+top: 40px;
+left: 20%;
+
+  
+}
+
+
+
+
+
+
+
+
+#course{
+  border-top:1px solid #717171;
+  border-bottom:1px solid #717171 ;
+
+  margin-top: 150px;
+  
+}
+
+
+.course{
+  margin-top: 30px;
+  width: 850px;
+height: 400px;
+top: 3808px;
+left: 235px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.c1{
+  background-color: rgba(23, 26, 36, 1);
+ 
+  width: Fixed (296px)px;
+height: Hug (231px)px;
+top: 67px;
+padding: 30px 20px 30px 20px;
+gap: 15px;
+opacity: 0px;
+margin: 15px;
+
+}
+
+
+.c2{background-color: rgba(23, 26, 36, 1);
+  
+  width: Fixed (296px)px;
+height: Hug (231px)px;
+top: 67px;
+left: 327px;
+padding: 30px 20px 30px 20px;
+gap: 15px;
+opacity: 0px;
+margin: 15px;
+
+}
+
+.c3{
+  background-color: rgba(23, 26, 36, 1);
+
+  width: Fixed (296px)px;
+height: Hug (231px)px;
+top: 67px;
+left: 554px;
+padding: 30px 20px 30px 20px;
+gap: 15px;
+opacity: 0px;
+margin: 15px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  
+  border-top: 0.1rcap solid rgb(253, 237, 208);
+  color: #fff;
+  text-align: start;
+  padding: 8px;
+ 
+  width: 100%;
+}
+
+
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media only screen and (max-width: 768px) {
+
+
+
+
+    span {
+      color: yellow;
+      margin-left: 80px;
+      font-size: 20px;
+  
+  
+  }
+  
+  p{
+    margin-left: 80px;
+    color: gray;
+    font-size: 10px;
+  }
+  
+  
+  
+  h2{
+    font-size:20px ;
+  }
+  
+  
+  
+  
+  h1{
+    margin-left: 80px;
+    font-size: 35px;
+    margin-top: -20px;
+    margin-bottom: -2.5px;
+  }
+  
+  
+  
+  .home img{
+    margin-left: 500px;
+    height: 120px;
+  margin-top: -250px;
+  
+  }
+  
+  
+  
+  
+  .btn1{
+  
+    padding: 7px;
+    cursor: pointer;
+    background-color: gold;
+    
+    color: white;
+    height: 30px;
+    width: 100px;
+    margin-left: 100px;
+    font-size: 8px;
+    
+    }
+  
+    .btn1:hover {
+      background-color: transparent; /* Change background color on hover */
+      color: gold;
+  
+    }
+  
+  
+     
+    .btn2{
+  
+    
+   
+      cursor: pointer;
+      box-sizing: border-box;
+     background-color: gold;
+     color: white;
+     height: 30px;
+     width: 100px;
+     font-size: 8px;
+  
+      
+      
+      }
+      .btn2:hover {
+          background-color: transparent; /* Change background color on hover */
+          color: gold;
+      }
+  
+  
+      .btn3{
+  
+         
+        cursor: pointer;
+        background-color: gold;
+        color: white;
+        height: 30px;
+        width: 130px;
+        font-size: 8px;
+  
+        }
+        .btn3:hover {
+            background-color: transparent; /* Change background color on hover */
+            color: gold;
+        }
+  
+  
+  
+  
+
+      
+
+
+
+  
+        .pre1{
+    
+          margin-top: 100px;
+          font-size: 30px;
+      }
+      .pre li{
+      
+          margin-top: 30px;
+          margin-left: 150px;
+      }
+      
+  
+  
+  
+      .boxx{
+        background-color: rgba(23, 26, 36, 1);
+        margin-top: 50px;
+        
+    }
+    
+  
+  
+  
+      #video-section {
+        padding: 2px;
+        margin-top: 10px;
+        margin-left: 10px;
+    
+    
+    }
+  .video-container video{
+    height: 40px;
+    width: 80px;
+  }
+  
+  
+  
+  
+  .box0{
+      
+    float: right;
+    
+    margin: 1px;
+    padding: 2px;
+    display: inline;
+  }
+  
+  .box1 {
+    
+    background-color:rgb(27, 30, 36);
+   
+    padding: 5px;
+    margin: 2px;
+    
+  
+    height: 20px;
+    width: 50px;
+    text-align: center;
+  
+  
+  
+  
+  
+    
+    
+  }
+  
+  
+  .box2 {
+    background-color: rgb(26, 29, 34);
+    padding: 5px;
+    margin: 2px;
+    
+  
+    height: 20px;
+    width: 50px; 
+    text-align: center;
+   
+    
+  }
+  
+  
+  
+  
+  .box-h {
+   
+    font-size: 4px;
+    margin: 0;
+    padding: 5px 0;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .module {
+  
+  
+     
+       padding: 10px; 
+       width: 100%;
+       border: none;
+       text-align: left;
+       outline: none;
+       font-size: 15px;
+       transition: 0.4s;
+       
+     }
+  
+  
+  
+  
+  .panel {
+       padding: 0 13px;
+       display: none;
+       background-color:rgb(17, 12, 11);
+       overflow: hidden;
+     }
+  
+     .module:after {
+       content: '\02795'; 
+       font-size: 9px;
+       color: #777;
+       float: left;
+       margin-left: 12px;
+   
+     }
+  
+  
+  
+  #slide{
+      background-color:rgba(23, 26, 36, 1);
+      margin-top: 100px;
+  font-size: 10px;
+  
+  }
+    
+  
+  
+  .slideshow-container {
+    background-color: rgba(23, 26, 36, 1);
+    max-width: 800px;
+    max-height: 300px;
+    position: relative;
+    margin: auto;
+    
+  }
+  
+  
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 70%;
+    width: auto;
+    padding: 3px;
+    margin-top: -15px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    transition: 0.6s ease;
+    border-radius: 1px 1px 1px 1px;
+    user-select: none;
+  }
+  
+  
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 22px 1px;
+    background-color: #bbb;
+    border-radius: 100%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .all0{
+    color: white;
+    font-size: 7px;
+  
+  }
+  
+  
+  
+  .all0 p{
+    font-size: 7px;
+    position: relative;
+    top: 40px;
+    
+  }
+  
+  .all0 h3{
+    position: relative;
+  top: 40px;
+  left: 20%;
+  
+    
+  }
+  
+  
+  .all0 h5{
+    position: relative;
+  top: 40px;
+  left: 20%;
+  
+    
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  #course{
+    border-top:1px solid #717171;
+    border-bottom:1px solid #717171 ;
+  
+    margin-top: 150px;
+    
+  }
+  
+  
+  .course{
+    margin-top: 30px;
+    width: 850px;
+  height: 400px;
+  top: 3808px;
+  left: 235px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  }
+  
+  .c1{
+    background-color: rgba(23, 26, 36, 1);
+   
+    width: Fixed (196px)px;
+  height: Hug (131px)px;
+  top: 67px;
+  padding: 30px 20px 30px 20px;
+  gap: 15px;
+  opacity: 0px;
+  margin: 15px;
+  
+  }
+  
+  
+  .c2{background-color: rgba(23, 26, 36, 1);
+    
+    width: Fixed (196px)px;
+  height: Hug (131px)px;
+  top: 67px;
+  left: 287px;
+  padding: 30px 20px 30px 20px;
+  gap: 15px;
+  opacity: 0px;
+  margin: 15px;
+  
+  }
+  
+  .c3{
+    background-color: rgba(23, 26, 36, 1);
+  
+    width: Fixed (196px)px;
+  height: Hug (131px)px;
+  top: 67px;
+  left: 384px;
+  padding: 30px 20px 30px 20px;
+  gap: 15px;
+  opacity: 0px;
+  margin: 15px;
+  
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  footer {
+    
+    border-top: 0.1rcap solid rgb(253, 237, 208);
+    color: #fff;
+    text-align: start;
+    padding: 5px;
+   
+    width: 100%;
+  }
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+  @media only screen and (max-width: 380px) {
+
+
+
+
+    span {
+      color: yellow;
+      margin-left: 20px;
+      font-size: 10px;
+  
+  
+  }
+  
+  p{
+    margin-left: 20px;
+    color: gray;
+    font-size: 6px;
+  }
+  
+  
+  
+  h2{
+    font-size:10px ;
+  }
+  
+  
+  
+  
+  h1{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: -10px;
+    margin-bottom: -0.5px;
+  }
+  
+  
+  
+  .home img{
+    margin-left: 250px;
+    height: 40px;
+  margin-top: -250px;
+  
+  }
+  
+  
+  
+  
+  .btn1{
+  
+    padding: 4px;
+    cursor: pointer;
+    background-color: gold;
+    
+    color: white;
+    height: 15px;
+    width: 57px;
+    margin-left: 30px;
+    font-size: 4px;
+    
+    }
+  
+    .btn1:hover {
+      background-color: transparent; /* Change background color on hover */
+      color: gold;
+  
+    }
+  
+  
+     
+    .btn2{
+  
+    
+   
+      cursor: pointer;
+      box-sizing: border-box;
+     background-color: gold;
+     color: white;
+     height: 15px;
+     width: 70px;
+     font-size: 6px;
+  
+      
+      
+      }
+      .btn2:hover {
+          background-color: transparent; /* Change background color on hover */
+          color: gold;
+      }
+  
+  
+      .btn3{
+  
+         
+        cursor: pointer;
+        background-color: gold;
+        color: white;
+        height: 15px;
+        width: 80px;
+        font-size: 6px;
+  
+        }
+        .btn3:hover {
+            background-color: transparent; /* Change background color on hover */
+            color: gold;
+        }
+  
+  
+  
+
+
+/* Flex container */
+#details .text ul {
+  border-top: 1px solid #717171;
+border-bottom: 1px solid #717171;
+
+font-size: 30px;
+  /* position: relative; */
+    /* display: flex; */
+    /* flex-wrap: wrap;  */
+    gap: 4px; /* Space between items */
+    padding: 5px;
+    margin: 5px;
+    list-style: none; /* Remove default list styling */
+    /* text-align: start; */
+    /* justify-content: center; */
+    /* background-color:  rgb(21, 20, 20); */
+    margin-top: 20px;
+}
+
+/* Flex items */
+#details .text ul li {
+    /* flex: 0.1; All list items will have equal flex-grow */
+    margin: 2px;
+    
+}
+
+/* Links styling */
+#details .text ul li a {
+    text-decoration: none;
+    color: #f7f5f5; /* Default text color */
+    padding: 2px;
+    /* background-color: transparent; */
+    /* transition: background-color 0.1s, color 0.1s; Smooth transition for hover effect */
+}
+
+#details .text ul li a:hover {
+    background-color: lightslategray
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+  
+
+      
+
+
+
+  
+        .pre1{
+    
+          margin-top: 80px;
+          font-size: 20px;
+      }
+      .pre li{
+      
+          margin-top: 15px;
+          margin-left: 50px;
+      }
+      
+  
+  
+  
+      .boxx{
+        background-color: rgba(23, 26, 36, 1);
+        margin-top: 20px;
+        
+    }
+    
+  
+  
+  
+      #video-section {
+        padding: 2px;
+        margin-top: 5px;
+        margin-left: 5px;
+    
+    
+    }
+  .video-container video{
+    height: 40px;
+    width: 80px;
+  }
+  
+  .boxx h1{
+    font-size: 10px;
+  }
+  
+  
+  .box0{
+      
+    /* float: right; */
+    
+    margin: 1px;
+    padding: 2px;
+    display: inline;
+  }
+  
+  .box1 {
+    
+    background-color:rgb(27, 30, 36);
+   
+    padding: 5px;
+    margin: 2px;
+    
+  
+    height: 20px;
+    width: 50px;
+    text-align: center;
+  
+  
+  
+  
+  
+    
+    
+  }
+  
+  
+  .box2 {
+    background-color: rgb(26, 29, 34);
+    padding: 5px;
+    margin: 2px;
+    
+  
+    height: 20px;
+    width: 50px; 
+    text-align: center;
+   
+    
+  }
+  
+  
+  
+  
+  .box-h {
+   
+    font-size: 4px;
+    margin: 0;
+    padding: 5px 0;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .module {
+  
+  
+     
+       padding: 8px; 
+       width: 100%;
+       border: none;
+       text-align: left;
+       outline: none;
+       font-size: 15px;
+       transition: 0.4s;
+       
+     }
+  
+  
+  
+  
+  .panel {
+       padding: 0 13px;
+       display: none;
+       background-color:rgb(17, 12, 11);
+       overflow: hidden;
+     }
+  
+     .module:after {
+       content: '\02795'; 
+       font-size: 9px;
+       color: #777;
+       float: left;
+       margin-left: 12px;
+   
+     }
+  
+  
+  
+  #slide{
+      background-color:rgba(23, 26, 36, 1);
+      margin-top: 100px;
+  font-size: 10px;
+  
+  }
+    
+  
+  
+  .slideshow-container {
+    background-color: rgba(23, 26, 36, 1);
+    max-width: 800px;
+    max-height: 300px;
+    position: relative;
+    margin: auto;
+    
+  }
+  
+  
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 70%;
+    width: auto;
+    padding: 3px;
+    margin-top: -15px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    transition: 0.6s ease;
+    border-radius: 1px 1px 1px 1px;
+    user-select: none;
+  }
+  
+  
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 22px 1px;
+    background-color: #bbb;
+    border-radius: 100%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .all0{
+    color: white;
+    font-size: 7px;
+  
+  }
+  
+  
+  
+  .all0 p{
+    font-size: 7px;
+    position: relative;
+    top: 40px;
+    
+  }
+  
+  .all0 h3{
+    position: relative;
+  top: 40px;
+  left: 20%;
+  
+    
+  }
+  
+  
+  .all0 h5{
+    position: relative;
+  top: 40px;
+  left: 20%;
+  
+    
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  #course{
+    border-top:1px solid #717171;
+    border-bottom:1px solid #717171 ;
+  
+    margin-top: 150px;
+    
+  }
+  
+  
+  .course{
+    margin-top: 30px;
+    width: 850px;
+  height: 400px;
+  top: 3808px;
+  left: 235px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  }
+  
+  .c1{
+    background-color: rgba(23, 26, 36, 1);
+   
+    width: Fixed (196px)px;
+  height: Hug (131px)px;
+  top: 67px;
+  padding: 30px 20px 30px 20px;
+  gap: 15px;
+  opacity: 0px;
+  margin: 15px;
+  
+  }
+  
+  
+  .c2{background-color: rgba(23, 26, 36, 1);
+    
+    width: Fixed (196px)px;
+  height: Hug (131px)px;
+  top: 67px;
+  left: 287px;
+  padding: 30px 20px 30px 20px;
+  gap: 15px;
+  opacity: 0px;
+  margin: 15px;
+  
+  }
+  
+  .c3{
+    background-color: rgba(23, 26, 36, 1);
+  
+    width: Fixed (196px)px;
+  height: Hug (131px)px;
+  top: 67px;
+  left: 384px;
+  padding: 30px 20px 30px 20px;
+  gap: 15px;
+  opacity: 0px;
+  margin: 15px;
+  
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  footer {
+    
+    border-top: 0.1rcap solid rgb(253, 237, 208);
+    color: #fff;
+    text-align: start;
+    padding: 5px;
+   
+    width: 100%;
+  }
+    
+  
+  
+    }
+
+
+
+
+  
+  }
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  @media only screen and (max-width: 240px) {
+
+
+
+    nav a img{
+  
+      top: 17px;
+      left: 2%;
+        margin-top: 40px;
+        margin-left: 50px;
+        height: 50px;
+        width: 130px;
+       
+    }
+
+
+
+
+
+
+    span {
+      color: yellow;
+      margin-left: 20px;
+      font-size: 6px;
+  
+  
+  }
+  
+  p{
+    margin-left: 10px;
+    color: gray;
+    font-size: 4px;
+  }
+  
+  
+  
+  h2{
+    font-size:6px ;
+  }
+  
+  
+  
+  
+  h1{
+    margin-left: 15px;
+    font-size: 8px;
+    margin-top: -6px;
+    margin-bottom: -0.2px;
+  }
+  
+  
+  
+  .home img{
+    margin-left: 150px;
+    height: 20px;
+  margin-top: -160px;
+  
+  }
+  
+  
+  
+  
+  .btn1{
+  
+    padding: 2px;
+    cursor: pointer;
+    background-color: gold;
+    
+    color: white;
+    height: 10px;
+    width: 37px;
+    margin-left: 15px;
+    font-size: 2px;
+    
+    }
+  
+    .btn1:hover {
+      background-color: transparent; /* Change background color on hover */
+      color: gold;
+  
+    }
+  
+  
+     
+    .btn2{
+  
+    
+   
+      cursor: pointer;
+      box-sizing: border-box;
+     background-color: gold;
+     color: white;
+     height: 10px;
+     width: 40px;
+     font-size: 2px;
+  
+      
+      
+      }
+      .btn2:hover {
+          background-color: transparent; /* Change background color on hover */
+          color: gold;
+      }
+  
+  
+      .btn3{
+  
+         
+        cursor: pointer;
+        background-color: gold;
+        color: white;
+        height: 10px;
+        width: 40px;
+        font-size: 2px;
+  
+        }
+        .btn3:hover {
+            background-color: transparent; /* Change background color on hover */
+            color: gold;
+        }
+  
+  
+  
+
+
+/* Flex container */
+#details .text ul {
+  border-top: 1px solid #717171;
+border-bottom: 1px solid #717171;
+
+font-size: 9.5px;
+  /* position: relative; */
+    /* display: flex; */
+    /* flex-wrap: wrap;  */
+    gap: 1px; /* Space between items */
+    padding: 1px;
+    margin: 2px;
+    list-style: none; /* Remove default list styling */
+    /* text-align: start; */
+    /* justify-content: center; */
+    /* background-color:  rgb(21, 20, 20); */
+    margin-top: 10px;
+}
+
+/* Flex items */
+#details .text ul li {
+    /* flex: 0.1; All list items will have equal flex-grow */
+    margin: 20px;
+    
+}
+
+/* Links styling */
+#details .text ul li a {
+    text-decoration: none;
+    color: #f7f5f5; /* Default text color */
+    padding: 2px;
+    /* background-color: transparent; */
+    /* transition: background-color 0.1s, color 0.1s; Smooth transition for hover effect */
+}
+
+#details .text ul li a:hover {
+    background-color: lightslategray
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+  
+
+      
+
+
+
+  
+        .pre1{
+    
+          margin-top: 50px;
+          font-size: 15px;
+      }
+      .pre li{
+      
+          margin-top: 15px;
+          margin-left: 12px;
+          font-size: 6px;
+      }
+      
+  
+  
+  
+      .boxx{
+        background-color: rgba(23, 26, 36, 1);
+        margin-top: 20px;
+        
+    }
+    
+  .boxx .exam h {
+    margin-top: 20px;
+    
+  }
+  
+  
+      #video-section {
+        padding: 2px;
+        margin-top: 5px;
+        margin-left: 5px;
+    
+    
+    }
+  .video-container video{
+    height: 40px;
+    width: 80px;
+  }
+  
+  .boxx h1{
+    font-size: 10px;
+  }
+  
+  
+  .box0{
+      
+    /* float: right; */
+    
+    margin: 1px;
+    padding: 2px;
+    display: inline;
+  }
+  
+  .box1 {
+    
+    background-color:rgb(27, 30, 36);
+   
+    padding: 5px;
+    margin: 2px;
+    
+  
+    height: 20px;
+    width: 50px;
+    text-align: center;
+  
+  
+  
+  
+  
+    
+    
+  }
+  
+  
+  .box2 {
+    background-color: rgb(26, 29, 34);
+    padding: 5px;
+    margin: 2px;
+    
+  
+    height: 20px;
+    width: 50px; 
+    text-align: center;
+   
+    
+  }
+  
+  
+  
+  
+  .box-h {
+   
+    font-size: 4px;
+    margin: 0;
+    padding: 5px 0;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .module {
+  
+  
+     
+       padding: 8px; 
+       width: 100%;
+       border: none;
+       text-align: left;
+       outline: none;
+       font-size: 15px;
+       transition: 0.4s;
+       
+     }
+  
+  
+  
+  
+  .panel {
+       padding: 0 13px;
+       display: none;
+       background-color:rgb(17, 12, 11);
+       overflow: hidden;
+     }
+  
+     .module:after {
+       content: '\02795'; 
+       font-size: 9px;
+       color: #777;
+       float: left;
+       margin-left: 12px;
+   
+     }
+  
+  
+  
+  #slide{
+      background-color:rgba(23, 26, 36, 1);
+      margin-top: 100px;
+  font-size: 10px;
+  
+  }
+    
+  
+  
+  .slideshow-container {
+    background-color: rgba(23, 26, 36, 1);
+    max-width: 800px;
+    max-height: 300px;
+    position: relative;
+    margin: auto;
+    
+  }
+  
+  
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 70%;
+    width: auto;
+    padding: 3px;
+    margin-top: -15px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    transition: 0.6s ease;
+    border-radius: 1px 1px 1px 1px;
+    user-select: none;
+  }
+  
+  
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 22px 1px;
+    background-color: #bbb;
+    border-radius: 100%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .all0{
+    color: white;
+    font-size: 7px;
+  
+  }
+  
+  
+  
+  .all0 p{
+    font-size: 7px;
+    position: relative;
+    top: 40px;
+    
+  }
+  
+  .all0 h3{
+    position: relative;
+  top: 40px;
+  left: 20%;
+  
+    
+  }
+  
+  
+  .all0 h5{
+    position: relative;
+  top: 40px;
+  left: 20%;
+  
+    
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  #course{
+    border-top:1px solid #717171;
+    border-bottom:1px solid #717171 ;
+  
+    margin-top: 150px;
+    
+  }
+  
+  
+  .course{
+    margin-top: 30px;
+    width: 850px;
+  height: 400px;
+  top: 3808px;
+  left: 235px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  }
+  
+  .c1{
+    background-color: rgba(23, 26, 36, 1);
+   
+    width: Fixed (196px)px;
+  height: Hug (131px)px;
+  top: 67px;
+  padding: 30px 20px 30px 20px;
+  gap: 15px;
+  opacity: 0px;
+  margin: 15px;
+  
+  }
+  
+  
+  .c2{background-color: rgba(23, 26, 36, 1);
+    
+    width: Fixed (196px)px;
+  height: Hug (131px)px;
+  top: 67px;
+  left: 287px;
+  padding: 30px 20px 30px 20px;
+  gap: 15px;
+  opacity: 0px;
+  margin: 15px;
+  
+  }
+  
+  .c3{
+    background-color: rgba(23, 26, 36, 1);
+  
+    width: Fixed (196px)px;
+  height: Hug (131px)px;
+  top: 67px;
+  left: 384px;
+  padding: 30px 20px 30px 20px;
+  gap: 15px;
+  opacity: 0px;
+  margin: 15px;
+  
+  
+  }
+  
+  
+  
+}
+
+
+
+
