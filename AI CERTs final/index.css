@@ -1,0 +1,1045 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+background-color:rgb(0, 0, 0);
+color: white;
+
+
+
+
+
+
+
+  
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+}
+
+
+.container{
+  overflow: hidden;
+}
+/* header {
+    background-color: #000000;
+    color: #fff;
+    padding: 0.2em 0;
+}
+
+nav li a:hover {
+    background-color: transparent; 
+    color: aqua; 
+  
+
+}
+
+
+nav{
+    display: block;
+    height: 90px;
+}
+
+
+nav ul  {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -91px;
+
+    
+   
+    
+}
+
+ nav ul li a{
+    color: white;
+   
+   
+    display: flex ;
+   padding: 50px;
+    border-radius: 18px;
+    text-decoration: none;
+    justify-content: end;
+    align-items: end;
+    display:  block;
+    font-family: 'Baloo Bhai';
+    margin-right: -80px;
+ }
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 5px 10px;
+    padding-top: 2px; 
+}
+
+nav a img{
+  
+  top: 17px;
+  left: 2%;
+    margin-top: 40px;
+    margin-left: 50px;
+    height: 50px;
+    width: 130px;
+   
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+nav{
+  background-color: rgb(9, 9, 9);
+  box-shadow: 3px p3x 5px rgb(240, 232, 232);
+
+}
+
+
+nav ul{
+
+  width: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+}
+nav li{
+  height: 50px;
+
+}
+
+
+nav a{
+  height: 100%;
+  padding: 0 30px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: rgb(255, 248, 248);
+
+
+
+}
+
+
+nav a:hover{
+  color: gold;
+
+  /* background-color: rgb(110, 102, 102); */
+
+}
+
+nav li:first-child{
+  margin-right: auto;
+}
+
+
+.sidebar{
+  
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 250px;
+  z-index: 999;
+  background-color: rgba(8, 8, 8, 0.385);
+  backdrop-filter: blur(10px);
+  box-shadow: -10px 0 10px rgba(79, 77, 77, 0.204);
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+
+}
+
+
+.sidebar li{
+  width: 100%;
+
+}
+
+.sidebar a{
+
+  width: 100%;
+}
+
+
+.menu-button{
+  display: none;
+}
+
+
+
+
+
+@media(max-width: 800px){
+
+  .hideOnMobile{
+      display: none;
+  }
+  .menu-button{
+      display: block;
+  }
+}
+
+@media(max-width: 375px){
+
+  .sidebar{
+      width: 100%;
+  }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .btn button{
+    
+    
+    background-color: #ff9900;
+    border: none;
+    padding: 1em;
+    color: #fff;
+    cursor: pointer;
+    
+   
+
+   
+ 
+
+} */
+
+
+#home{
+    background-image: url(bg.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+span {
+    color: yellow;
+    margin-left: 300px;
+    font-size: 40px;
+
+
+}
+
+p{
+    margin-left: 300px;
+    color: gray;
+    font-size: 15px;
+}
+
+
+h2{
+    font-size:35px ;
+}
+h1{
+    margin-left: 300px;
+    font-size: 60px;
+    margin-top: -20px;
+    margin-bottom: -3px;
+}
+
+.home img{
+    margin-left: 1000px;
+    height: 250px;
+margin-top: -500px;
+ 
+}
+.btn1{
+
+padding: 10px;
+cursor: pointer;
+background-color: gold;
+
+color: white;
+height: 50px;
+width: 200px;
+margin-left: 300px;
+font-size: 15px;
+
+}
+.btn1:hover {
+    background-color: transparent; /* Change background color on hover */
+    color: gold;
+    border: 2px solid gold;
+
+}
+.btn2{
+
+  
+ 
+    cursor: pointer;
+    box-sizing: border-box;
+   background-color: gold;
+   color: white;
+   height: 50px;
+   width: 200px;
+   font-size: 15px;
+
+    
+    
+    }
+    .btn2:hover {
+        background-color: transparent; /* Change background color on hover */
+        color: gold;
+        border: 2px solid gold;
+    }
+    .btn3{
+
+       
+        cursor: pointer;
+        background-color: gold;
+        color: white;
+        height: 50px;
+        width: 200px;
+        font-size: 15px;
+
+        }
+        .btn3:hover {
+            background-color: transparent; /* Change background color on hover */
+            color: gold;
+            border: 2px solid gold;
+        }
+
+
+
+
+
+
+
+  
+        .arrow {
+          border: solid white;
+          border-width: 0 3px 3px 0;
+          display: inline-block;
+          padding: 10px ;
+        }
+        
+        .right {
+          transform: rotate(-45deg);
+          -webkit-transform: rotate(-45deg);
+        }
+        
+        .left {
+          transform: rotate(135deg);
+          -webkit-transform: rotate(135deg);
+        }
+
+
+
+
+            
+        #card {
+          border-top: 1px solid #717171;
+border-bottom: 1px solid #717171;
+
+
+            display: flex;
+             flex-wrap: wrap; 
+            gap: 10px; /* Space between items */
+            padding: 10px; /* Padding inside the flex container */
+            justify-content: space-between; /* Distribute items evenly with space between */
+            
+            margin-top: 170px;
+            
+        }
+        
+        /* Flex items */
+        .box {
+            background-color: rgb(11, 17, 31);
+            flex: 1 1 100px; /* Grow and shrink as needed, with a minimum size of 100px */
+            display: flex; /* Use flexbox for the .box itself to center the image */
+            align-items: center; /* Center items vertically */
+            justify-content: center; /* Center items horizontally */
+           /* Optional: border around each box */
+            padding: 5px; /* Optional: padding inside each box */
+            height: 200px;
+        }
+
+
+        .b1{
+            height: 150px;
+            width: 150px;
+            border: 2pc solid;
+          
+
+            background-color: white;
+            border-radius: 100%;
+        }
+        
+        /* Ensure images are responsive */
+        .box img {
+            max-width: 100%;
+            height: auto;
+            
+        }
+
+        @media (max-width: 768px) {
+          #card .box {
+              flex: 1 1 calc(50% - 20px);
+              max-width: calc(50% - 20px);
+          }
+      }
+      
+      @media (max-width: 480px) {
+          #card .box {
+              flex: 1 1 100%;
+              max-width: 100%;
+          }
+      }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+        /* Ensure all elements have consistent box-sizing */
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+/* Flex container */
+#details .text ul {
+  border-top: 1px solid #717171;
+border-bottom: 1px solid #717171;
+
+  position: relative;
+    display: flex;
+    flex-wrap: wrap; /* Allows items to wrap to the next line if necessary */
+    gap: 10px; /* Space between items */
+    padding: 10px;
+    margin: 10px;
+    list-style: none; /* Remove default list styling */
+    text-align: center;
+    justify-content: center;
+    /* background-color:  rgb(21, 20, 20); */
+    margin-top: 90px;
+}
+
+/* Flex items */
+#details .text ul li {
+    flex: 0.1; /* All list items will have equal flex-grow */
+    margin: 20px;
+    
+}
+
+/* Links styling */
+#details .text ul li a {
+    text-decoration: none;
+    color: #f7f5f5; /* Default text color */
+    padding: 5px;
+    background-color: transparent;
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effect */
+}
+
+#details .text ul li a:hover {
+    background-color: transparent;
+    color: gold;
+
+
+
+
+}
+
+.pre1{
+  
+  
+    margin-top: 200px;
+    font-size: 50px;
+}
+.pre li{
+
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+.boxx{
+    background-color: rgb(40, 39, 39);
+    margin-top: 100px;
+}
+
+
+.boxx h1{
+
+margin-left: 120px;
+  font-size: 50px;
+}
+#video-section {
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 80px;
+
+
+}
+
+/*
+.video-container {
+    position: relative;
+    width: 10px;
+    max-width: 300px;
+    margin: 0 auto;
+    padding-top: 56.25%; 16:9 Aspect Ratio
+    overflow: hidden;
+  
+}
+
+.video-container  {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+    border: none;
+}
+
+
+*/
+
+
+
+
+
+/* 
+.exam_details{
+    margin-left: 300px;
+    font-size: 50px;
+    margin-top: -80px;
+   
+} */
+
+.box0{
+    
+    float: right;
+    margin: 10px;
+    padding: 15px;
+    display: inline;
+}
+
+.box0 :hover{
+
+
+  
+    background-color:rgba(207, 169, 53, 1);
+
+
+
+
+
+
+}
+
+
+
+.box1 {
+    
+    background-color: rgb(23, 22, 22);
+   
+    padding: 40px;
+    margin: 15px;
+    
+
+    height: 158px;
+    width: 280px;
+    text-align: center;
+
+
+
+
+
+    
+    
+}
+
+
+.box2 {
+    background-color: rgb(23, 22, 22);
+    padding: 40px;
+    margin: 15px;
+    
+
+    height: 158px;
+    width: 280px; 
+    text-align: center;
+   
+    
+}
+
+
+
+
+.box-h {
+   
+    font-size: 25px;
+    margin: 0;
+    padding: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+
+.module {
+
+
+    background-color: rgb(0, 0, 0);
+     color: white;
+     font-family: Montserrat;
+     cursor: pointer;
+     padding: 18px; 
+     width: 100%;
+     border: none;
+     text-align: left;
+     outline: none;
+     font-size: 20px;
+     transition: 0.4s;
+     
+   }
+   
+   .active, .module:hover {
+     background-color: #4a4a4a; 
+   }
+   
+   .panel {
+     padding: 0 18px;
+     display: none;
+     background-color:rgb(17, 12, 11);
+     overflow: hidden;
+   }
+
+   .module:after {
+     content: '\02795'; 
+     font-size: 13px;
+     color: #777;
+     float: left;
+     margin-left: 20px;
+ 
+   }
+   
+   .active:after {
+     content: "\2796"; 
+   }
+   
+   
+   
+   .panel li {
+       color: gray;
+       text-decoration: none;
+       list-style: number;
+   }
+
+
+
+
+
+
+
+
+
+/* Section slide */
+
+
+
+
+
+
+
+#slide{
+    background-color:rgba(23, 26, 36, 1);
+    margin-top: 150px;
+font-size: 20px;
+
+}
+  
+  
+  * {box-sizing: border-box}
+  body {font-family: Montserrat,Verdana, Geneva, Tahoma, sans-serif; margin:0;  }
+  .mySlides {display: none}
+  img {vertical-align: middle;}
+  
+  /* Slideshow container */
+  .slideshow-container {
+    background-color: rgba(23, 26, 36, 1);
+    max-width: 1000px;
+    max-height: 500px;
+    position: relative;
+    margin: auto;
+    
+  }
+  
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: calc(center);
+    width: auto;
+    padding: 16px;
+    margin-top: 2px;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+  
+ 
+  .dot {
+    cursor: pointer;
+    height: 8px;
+    width: 8px;
+    margin: 34px 1px;
+    margin-top: 50px;
+
+    background-color: #bbb;
+    border-radius: 100%;
+    display: inline-block;
+    transition: background-color 0.4s ease;
+  }
+  
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+  
+  /* Fading animation */
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  
+  .all0{
+    color: white;
+    font-size: 10px;
+  
+  }
+  .all0 p{
+    font-size: 10px;
+    position: relative;
+    top: 80px;
+    left: -10%;
+  }
+
+  .all0 h3{
+    position: relative;
+top: 50px;
+left: 20%;
+
+    
+  }
+
+
+  .all0 h5{
+    position: relative;
+    color: gold;
+top: 80px;
+left: 20%;
+
+    
+  }
+
+
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  /* On smaller screens, decrease text size */
+  @media only screen and (max-width: 300px) {
+    .prev, .next,.text {font-size: 11px}
+  }
+
+
+
+
+
+
+
+
+
+
+  #course{
+    border-top:1px solid #717171;
+    border-bottom:1px solid #717171 ;
+
+    margin-top: 150px;
+    
+  }
+
+  #course h2{
+    text-align: center;
+    justify-content: center;
+
+  }
+
+.course{
+    margin-top: 50px;
+    width: 1250px;
+height: 488px;
+top: 4808px;
+left: 335px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+margin-left: 150px;
+align-items: center;
+justify-content: center;
+
+}
+
+.c1{
+    background-color: rgba(23, 26, 36, 1);
+   
+    width: Fixed (396px)px;
+height: Hug (331px)px;
+top: 127px;
+padding: 50px 30px 50px 30px;
+gap: 25px;
+opacity: 0px;
+margin: 25px;
+
+}
+
+
+.c2{background-color: rgba(23, 26, 36, 1);
+    
+    width: Fixed (396px)px;
+height: Hug (331px)px;
+top: 127px;
+left: 427px;
+padding: 50px 30px 50px 30px;
+gap: 25px;
+opacity: 0px;
+margin: 25px;
+
+}
+
+.c3{
+    background-color: rgba(23, 26, 36, 1);
+
+    width: Fixed (396px)px;
+height: Hug (331px)px;
+top: 127px;
+left: 854px;
+padding: 50px 30px 50px 30px;
+gap: 25px;
+opacity: 0px;
+margin: 25px;
+
+
+}
+
+.course :hover{
+    background-color:rgba(207, 169, 53, 1);
+}
+
+
+
+
+
+
+
+input{
+  margin-left: 50px;
+}
+
+
+.buttn{
+  background-color:transparent;
+
+  color: white;
+  border: none;
+  margin-left: -15px;
+  font-size: large;
+}
+.buttn:hover{
+background-color: white;
+color: black;
+}
+
+
+.form-group p{
+  font-family: Baloo Bhai;
+  font-size: xx-large;
+  margin-left: 50px;
+  color: #f7f5f5;
+
+}.form-group img{
+  /* float: left; */
+margin-left: 40px;
+  height: 35px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.foot{
+ 
+  height: 300px;
+}
+.img{
+  margin-top: 30px;
+}
+.foot h8{
+  color: white;
+  margin-left: -180px;
+  font-size: 9px;
+}
+
+
+.foot h9{
+  color: white;
+}
+.detail1{
+  color: white;
+  margin-left: 500px;
+  margin-top: -280px;
+}
+.detail1 div{
+  margin-left: 210px;
+}
+.details ul{
+  color: white;
+  margin-left: 85px;
+  padding: 5px 20px;
+ 
+}
+.detail2{
+  color: white;
+  margin-left: 620px;
+  
+}
+.detail2 ul{
+  margin-left: 140px ;
+  position: relative;
+  top: -162px;
+}
+.detail2 div{
+  margin-left: 320px;
+  position: relative;
+  top: -320px;
+}
+
+
+
+.detail3{
+  color: white;
+  margin-left: 760px;
+  margin-top: -142px;
+
+}
+.detail3 ul{
+  margin-left: 195px;
+position: relative;
+top:-190px ;
+
+
+}
+
+.detail3 div{
+
+margin-left: 430px;
+position: relative;
+top: -385px;
+
+}
+
+.footer{
+
+  border-top: 0.1rcap solid rgb(115, 115, 115);
+  width: 100%;
+  color: fff;
+  margin-top: -110px;
+  margin-left:-250px;
+  
+  /* text-align: start; */
+
+}
+
+
+
+
+
+
+
+
